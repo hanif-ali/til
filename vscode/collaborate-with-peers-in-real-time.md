@@ -1,0 +1,2 @@
+# Collaborate with Peers in Real Time
+There is a very useful Extension from Microsoft for VSCode named "Live Share". It allows you to instantly share project, terminal sessions and other stuff online with your peers. Install it from the Extensions tab in VSCode.

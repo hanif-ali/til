@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _4 TILs and counting..._
 * [Git](#git)
 * [Linux](#linux)
 * [tmux](#tmux)
+* [vscode](#vscode)
 
 ---
 
@@ -28,3 +29,6 @@ _4 TILs and counting..._
 ### Tmux
 
 - [Use Vim Keybindings to Move between Panes](tmux/use-vim-keybindings-to-move-between-panes.md) 
+
+### VSCode
+- [Collaborate with Peers in Real Time](vscode/collaborate-with-peers-in-real-time.md)
