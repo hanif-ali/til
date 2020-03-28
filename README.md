@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
@@ -22,7 +22,7 @@ _1 TILs and counting..._
 
 ### Linux 
 
-- 
+- [Connecting to a Wifi Network from Terminal](linux/connecting-to-wifi-from-terminal.md)
 
 ### Tmux
 
