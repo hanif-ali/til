@@ -5,7 +5,9 @@
 A log of small things I learn day to day across a variety of languages and technologies. 
 
 _6 TILs and counting..._
+
 _Counting since 28 March 2020_
+
 ---
 
 ### Categories
