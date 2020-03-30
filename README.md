@@ -4,8 +4,8 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_5 TILs and counting..._
-
+_6 TILs and counting..._
+_Counting since 28 March 2020_
 ---
 
 ### Categories
@@ -14,6 +14,7 @@ _5 TILs and counting..._
 * [Linux](#linux)
 * [tmux](#tmux)
 * [vscode](#vscode)
+* [python](#python)
 
 ---
 
@@ -32,3 +33,6 @@ _5 TILs and counting..._
 
 ### VSCode
 - [Collaborate with Peers in Real Time](vscode/collaborate-with-peers-in-real-time.md)
+
+### Python
+- [Using underscore as separator for large numbers](python/underscore-separator.md)
