@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_7 TILs and counting..._
+_10 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -40,6 +40,8 @@ _Counting since 28 March 2020_
 
 ### Python
 - [Using underscore as separator for large numbers](python/underscore-separator.md)
+- [Generating Simple Arithmetic Sequences with Itertools](python/arithmetic-sequences-itertools.md)
+- [Generating Fibonacci sequence with Itertools](python/fibonacci-itertools.md)
 
 ### Docker
 - [Copying Files from a Container to Host](docker/copying-files-from-container.md)
