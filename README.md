@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -17,6 +17,7 @@ _Counting since 28 March 2020_
 * [tmux](#tmux)
 * [vscode](#vscode)
 * [python](#python)
+* [docker](#docker)
 
 ---
 
@@ -38,3 +39,6 @@ _Counting since 28 March 2020_
 
 ### Python
 - [Using underscore as separator for large numbers](python/underscore-separator.md)
+
+### Docker
+- [Copying Files from a Container to Host](docker/copying-files-from-container.md)
