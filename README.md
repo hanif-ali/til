@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -18,6 +18,7 @@ _Counting since 28 March 2020_
 * [vscode](#vscode)
 * [python](#python)
 * [docker](#docker)
+* [Vim](#vim)
 
 ---
 
@@ -45,3 +46,6 @@ _Counting since 28 March 2020_
 
 ### Docker
 - [Copying Files from a Container to Host](docker/copying-files-from-container.md)
+
+### Vim
+- [Viewing the Contents of a File in Another Branch](vim/contents-of-file-in-another-branch.md)
