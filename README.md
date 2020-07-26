@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -50,3 +50,4 @@ _Counting since 28 March 2020_
 
 ### Vim
 - [Viewing the Contents of a File in Another Branch](vim/contents-of-file-in-another-branch.md)
+- [Using Smart Case for Search](vim/smart-case-search.md)
