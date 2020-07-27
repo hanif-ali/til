@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -14,10 +14,11 @@ _Counting since 28 March 2020_
 
 * [Git](#git)
 * [Linux](#linux)
-* [tmux](#tmux)
-* [vscode](#vscode)
-* [python](#python)
-* [docker](#docker)
+* [Tmux](#tmux)
+* [VSCode](#vscode)
+* [Python](#python)
+* [Docker](#docker)
+* [Github](#github)
 * [Vim](#vim)
 
 ---
@@ -48,6 +49,9 @@ _Counting since 28 March 2020_
 
 ### Docker
 - [Copying Files from a Container to Host](docker/copying-files-from-container.md)
+
+### Github
+- [Vertical Alignment of Images with Text in Markdown](docker/markdown-vertical-alignment-of-images-with-text.md)
 
 ### Vim
 - [Viewing the Contents of a File in Another Branch](vim/contents-of-file-in-another-branch.md)
