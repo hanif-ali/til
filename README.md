@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -35,6 +35,7 @@ _Counting since 28 March 2020_
 ### Tmux
 
 - [Use Vim Keybindings to Move between Panes](tmux/use-vim-keybindings-to-move-between-panes.md) 
+- [Change Working Directory from Inside Session](tmux/change-working-directory-inside-session.md)
 
 ### VSCode
 - [Collaborate with Peers in Real Time](vscode/collaborate-with-peers-in-real-time.md)
