@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -47,6 +47,7 @@ _Counting since 28 March 2020_
 - [Generating Simple Arithmetic Sequences with Itertools](python/arithmetic-sequences-itertools.md)
 - [Generating Fibonacci sequence with Itertools](python/fibonacci-itertools.md)
 - [Cached Integers and Strings](python/cached-integers-and-strings.md)
+- [Making function parameters keyword-only](python/keyword-only-parameters.md)
 
 ### Docker
 - [Copying Files from a Container to Host](docker/copying-files-from-container.md)
