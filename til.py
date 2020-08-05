@@ -20,7 +20,8 @@ if __name__ == "__main__":
     with open(README_FILE) as r_file:
         file_content = r_file.read()
 
-    command = sys.argv[1]
+    try: command = sys.argv[1]
+    except: command = ""
     
     if command == "updatecount":
         new_count = get_new_count(file_content)

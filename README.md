@@ -59,3 +59,4 @@ _Counting since 28 March 2020_
 - [Viewing the Contents of a File in Another Branch](vim/contents-of-file-in-another-branch.md)
 - [Using Smart Case for Search](vim/smart-case-search.md)
 - [Using Sessions for Persistence](vim/sessions-persistence.md)
+- [Using Skeletons for boilerplate code](vim/skeletons-for-boilerplate.md)
