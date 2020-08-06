@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_18 TILs and counting..._
+_20 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -33,6 +33,7 @@ _Counting since 28 March 2020_
 - [Connecting to a Wifi Network from Terminal](linux/connecting-to-wifi-from-terminal.md)
 - [Reading From and Writing to the Clipboard from Terminal](linux/using-clipboard-from-terminal.md)
 - [Retrieving distribution-specific information](linux/display-distribution-information.md)
+- [Square Brackets as shell Builtins and standalone files](linux/square-brackets-shell-builtins.md)
 
 ### Tmux
 
