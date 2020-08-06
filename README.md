@@ -28,12 +28,13 @@ _Counting since 28 March 2020_
 - [Dry Runs](git/dry-runs.md)
 - [Convert All HTTPS Connections to SSH](git/convert-https-to-ssh.md)
 
-### Linux 
+### Linux + BASH
 
 - [Connecting to a Wifi Network from Terminal](linux/connecting-to-wifi-from-terminal.md)
 - [Reading From and Writing to the Clipboard from Terminal](linux/using-clipboard-from-terminal.md)
 - [Retrieving distribution-specific information](linux/display-distribution-information.md)
 - [Square Brackets as shell Builtins and standalone files](linux/square-brackets-shell-builtins.md)
+- [Case Insensitive String Comparison](linux/case-insensitive-string-comparison.md)
 
 ### Tmux
 
