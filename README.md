@@ -35,6 +35,7 @@ _Counting since 28 March 2020_
 - [Retrieving distribution-specific information](linux/display-distribution-information.md)
 - [Square Brackets as shell Builtins and standalone files](linux/square-brackets-shell-builtins.md)
 - [Case Insensitive String Comparison](linux/case-insensitive-string-comparison.md)
+- [The !! Shortcut](linux/double-exclamation-shortcut.md)
 
 ### Tmux
 
