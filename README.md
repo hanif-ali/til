@@ -27,6 +27,7 @@ _Counting since 28 March 2020_
 
 - [Dry Runs](git/dry-runs.md)
 - [Convert All HTTPS Connections to SSH](git/convert-https-to-ssh.md)
+- [Perform Empty Commits](git/empty-commits.md)
 
 ### Linux + BASH
 
