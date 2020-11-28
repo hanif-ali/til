@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_20 TILs and counting..._
+_23 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -64,3 +64,7 @@ _Counting since 28 March 2020_
 - [Using Smart Case for Search](vim/smart-case-search.md)
 - [Using Sessions for Persistence](vim/sessions-persistence.md)
 - [Using Skeletons for boilerplate code](vim/skeletons-for-boilerplate.md)
+
+
+## Updaing TIL Count
+Run `python til.py updatecount` to count and update the total number of TILs in the README file.
