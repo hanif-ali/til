@@ -4,7 +4,7 @@
 
 A log of small things I learn day to day across a variety of languages and technologies. 
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 _Counting since 28 March 2020_
 
@@ -37,6 +37,7 @@ _Counting since 28 March 2020_
 - [Square Brackets as shell Builtins and standalone files](linux/square-brackets-shell-builtins.md)
 - [Case Insensitive String Comparison](linux/case-insensitive-string-comparison.md)
 - [The !! Shortcut](linux/double-exclamation-shortcut.md)
+- [Simulating an Install in apt](linux/apt-install-simulation.md)
 
 ### Tmux
 
